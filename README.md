@@ -1,9 +1,12 @@
 # 绅士先生
-QQ群：请到App的『公告与帮助』找最新的群号
-Telegram（电报群）
+给自己最好的App
+
+## 交流群
+QQ群请到App的『公告与帮助』找最新的群号
+[Telegram](https://t.me/joinchat/CeTkyAiAaZvX2otNxOgSOg)
 
 ## 最新版本
-前往下载
+[前往下载](https://github.com/gentlemansolo/Gentleman/releases)
 
 ## 如何使用
 - 问题帮助可以看App的『公告与帮助』
