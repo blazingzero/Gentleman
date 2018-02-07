@@ -3,7 +3,7 @@
 
 ## 交流群
 - QQ群请到App的『公告与帮助』找最新的群号
-- [Telegram](https://t.me/joinchat/CeTkyAiAaZvX2otNxOgSOg)
+- [Telegram](https://t.me/higentleman)
 
 ## 最新版本
 [前往下载](https://github.com/gentlemansolo/Gentleman/releases)
